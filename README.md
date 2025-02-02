@@ -3,7 +3,7 @@
 ## 🛠️ Tools Used
 - Python
 
-## 📈 Objectives
+## 🎯 Objectives
 - Develop an interactive console-based system for students to access their marks securely.
 - Implement nested conditional statements and loops to validate user inputs.
 - Enhance user experience with clear prompts and error-handling mechanisms.
@@ -26,7 +26,7 @@
 ## 🛠️ Tools Used
 - Python
 
-## 📈 Objectives
+## 🎯 Objectives
 - Develop a console-based train ticket booking system for seat reservation and cancellation.
 - Implement an interactive menu-driven interface for user-friendly operations.
 - Ensure error handling and input validation for a seamless experience.
@@ -42,4 +42,32 @@
 - **Data Management:** Utilized lists and object-oriented principles to store and manage seat bookings.
 - **Input Validation & Error Handling:** Ensured correct data entry and handled exceptions for invalid inputs.
 - **Control Flow Management:** Designed a structured menu-driven system with efficient navigation.
+
+
+# 📊 Project - 3: Banking Management System
+
+## 🛠️ Tools Used
+- Python
+- CSV File Handling
+- OS Module
+
+## 🎯 Objectives
+- Develop a console-based banking system to manage user accounts efficiently.
+- Implement functionalities for account creation, modification, deposits, withdrawals, and deletions.
+- Ensure data persistence using CSV file handling for seamless record management.
+- Provide a user-friendly menu-driven interface for easy navigation.
+
+## 💡 Soft Skills
+- **Problem-Solving:** Developed a structured banking system with efficient data handling and operations.
+- **User Interaction Management:** Designed an intuitive and user-friendly menu-driven system.
+- **Attention to Detail:** Implemented error handling and input validation for accurate transactions.
+- **Logical Thinking:** Used structured programming to efficiently manage account records and operations.
+
+## 🖥️ Technical Skills
+- **Python Programming:** Utilized core Python concepts, including loops, functions, and file handling.
+- **File Handling with CSV:** Stored and managed user account data using CSV files for persistence.
+- **Input Validation & Error Handling:** Ensured secure and error-free banking transactions.
+- **Control Flow Management:** Designed a structured program with a menu-driven interface for seamless navigation.
+
+
 
