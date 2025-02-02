@@ -20,3 +20,26 @@
 - **User Authentication Logic:** Used conditional checks to verify student identity before displaying marks.
 - **Control Flow Management:** Utilized `while` and `if-else` statements for structured execution.
 
+
+# 📊 Project - 2: Train Ticket Booking System
+
+## 🛠️ Tools Used
+- Python
+
+## 📈 Objectives
+- Develop a console-based train ticket booking system for seat reservation and cancellation.
+- Implement an interactive menu-driven interface for user-friendly operations.
+- Ensure error handling and input validation for a seamless experience.
+
+## 💡 Soft Skills
+- **Problem-Solving:** Designed logic for efficient seat allocation and cancellation processes.
+- **User Experience Design:** Created an intuitive interface with clear prompts and guided workflows.
+- **Attention to Detail:** Implemented robust error handling to prevent incorrect seat bookings.
+- **Logical Thinking:** Used structured programming to manage seat availability and user inputs.
+
+## 🖥️ Technical Skills
+- **Python Programming:** Developed the system using core Python concepts like loops, conditionals, and functions.
+- **Data Management:** Utilized lists and object-oriented principles to store and manage seat bookings.
+- **Input Validation & Error Handling:** Ensured correct data entry and handled exceptions for invalid inputs.
+- **Control Flow Management:** Designed a structured menu-driven system with efficient navigation.
+
