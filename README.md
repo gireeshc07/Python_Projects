@@ -1,4 +1,4 @@
-# 📊 Project - 1: Students Marks List
+# 📊 Project - 1: Student Marks List
 
 ## 🛠️ Tools Used
 - Python
